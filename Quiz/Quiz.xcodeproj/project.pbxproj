@@ -285,6 +285,7 @@
 				64579ED91C2476CB0097BED8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
